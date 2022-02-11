@@ -1,0 +1,20 @@
+*{
+    font-size: 20px;
+
+}
+.navbar{
+    padding: 10px 10px;
+}
+.navbar-dark{
+    opacity: 0.9;
+}
+.navbar-nav li {
+    margin:0px 10px 0px 10px;
+}
+.active{
+    color: #DC143C !important;
+}
+.nav-link:hover{
+    color: #DC143C !important;
+}
+

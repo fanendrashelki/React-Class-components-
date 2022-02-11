@@ -1,0 +1,90 @@
+.footer {
+
+    background: whitesmoke;
+    padding-top: 20px;
+
+}
+
+.footer h1 {
+    font-size: 30px;
+}
+
+.footer p {
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.footer span {
+    font-weight: 900;
+}
+
+.link li {
+    padding-bottom: 5px;
+}
+
+.link a {
+    text-decoration: none;
+    color: #000;
+    font-size: 12;
+}
+
+.link a:hover {
+    color: #DC143C;
+}
+
+.link h4 {
+    font-size: 20px;
+}
+
+.link .fal {
+    color: #DC143C;
+    font-size: 8;
+
+}
+
+.link form {
+    
+    width: 83%;
+    border: 1px solid #DC143C;
+    border-radius: 30px;
+    background:#fff;
+
+}
+
+.link form input {
+    border: none;
+}
+.box-bg {
+    background: #fff;
+}
+
+.btn-2 {
+    border:2px solid #DC143C;
+    cursor: pointer;
+    text-align: center;
+    padding: 8px 13px;
+    border-radius: 30px;
+    background: #DC143C;
+    font-size: 1.3vw;
+    color: #fff;
+}
+.footer-1{
+    background: #fff;
+    /* padding: 20px; */
+}
+.copyright{
+    font-size: 15px;
+   padding:20px 0px 20px 40px;
+}
+.social-links{
+    display: flex;
+    justify-content: end;
+
+}
+.social-links .fab{
+    padding: 0px 20px;
+}
+.fab{
+    color: #DC143C;
+}
+.fab:hover{color: #f5a4b4;}

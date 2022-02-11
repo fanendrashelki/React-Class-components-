@@ -1,0 +1,58 @@
+.services{
+    background: whitesmoke;
+    padding-top: 20px;
+
+}
+.card{
+    
+    border-radius: 30px;
+    text-align: center;
+    padding:20px 20px;
+}
+.card-body i{ 
+    color: #DC143C;
+
+}
+.card:hover {
+    background: #DC143C;
+    color: #fff;
+
+}
+.card:hover i{
+    color: #fff !important;
+}
+
+
+.call-to-action{
+    margin-top: 20px;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/src/images/[Downloader.la]-61d58ad72a5cd.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 20px;
+}
+.call-to-action h2{
+    color: #fff;
+    padding-top: 20px;
+}
+.call-to-action p{
+    color: #fff;
+    font-weight: 100;
+    padding-top: 15px;
+}
+
+.call-to-action .btn1 {
+    background:transparent;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border:2px solid #fff;
+    font-weight: 100; 
+    margin: 20px 0px;  
+}
+
+.btn1:hover{
+    background: #DC143C;
+    color: #fff;
+    border:2px solid #DC143C;
+}
